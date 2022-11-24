@@ -33,7 +33,6 @@ various Python scripts
 
 | Name                                                     | Description                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------- |
-| [wrap text](/text_manipulation/wrap_text.py)             | Have text in Pygame? Don't let it overflow.                |
 | [tree](/text_manipulation/tree.py)                       | generate unlimited height ASCII trees, optional decoration |
 | [loading](/text_manipulation/loading.py)                 | various loading indicators                                 |
 | [matrix](/text_manipulation/matrix.py)                   | almost that green text animation from matrix               |
